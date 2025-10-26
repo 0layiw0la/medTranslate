@@ -11,7 +11,7 @@ To make doctor–patient communication seamless and natural — no typing, no de
 
 ---
 
-## 👩‍💻 Builders
+## 👩‍💻 Contributors
 
 - **Katrina Emegbagba**  
 - **Ibrahim Abdulrahim**  
